@@ -1,1 +1,2 @@
-Hallo, ich bin ein Satz mit einigen Wörtern.
+Hallo! Ich bin ein Satz mit einigen Wörtern.
+Ich bin eine neue Zeile.
